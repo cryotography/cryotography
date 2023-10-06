@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cryotography.
-- 👀 I’m interested in Cyber Security and vulnerability hunter.
+- 👀 I’m interested in Cyber Security and Bug Bounty huntimg.
 - 🌱 I’m currently learning how to break things as well as how to build it.
 - 💞️ I’m looking to collaborate on security of webApp as it developed at high speed daily.
 - 📫 How to reach me via: Cryotography05@gmail.com.
